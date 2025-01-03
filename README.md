@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# E-Commerce
+A static eCommerce UI built with React, Bootstrap, HTML, and CSS. Features include responsive design, navigation using React Router, and a clean layout optimized for user-friendly browsing.
+>>>>>>> 71dddb136cacd97ee8e8f9379f5badb66223cd03
